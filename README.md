@@ -2,8 +2,6 @@
 
 **SinglePulse** is a Python library for processing, analyzing, and visualizing single-pulse ICP-MS data, with a focus on Perkin Elmer Syngistix and Nanomodul files. It provides tools for peak detection, background correction, calibration, particle analysis, and more.
 
-**Please do not edit any code in the main branch of this project! You are free to create a private fork of this project and edit the code to your needs.**
-
 ## Features
 
 - Syngistix & Nanomodul file support
